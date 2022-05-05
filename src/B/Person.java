@@ -1,4 +1,4 @@
-package A;
+package B;
 
 class Person {
     // The String class should start with capital letter "S".

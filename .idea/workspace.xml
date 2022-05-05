@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b96bad0b-abda-4640-bc75-6b3b531c224a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+    <list default="true" id="b96bad0b-abda-4640-bc75-6b3b531c224a" name="Changes" comment="a">
+      <change afterPath="$PROJECT_DIR$/src/A/AufgabeA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C/Junction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C/TrafficLight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +29,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28U4q9ZGtN0V6z76esOz4dj6lcc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,9 +42,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/A" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="A.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A.Main" />
+    <configuration name="B.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B.Main" />
       <module name="U1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -51,7 +57,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A.Main" />
+        <item itemvalue="Application.B.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -64,6 +70,14 @@
       <option name="presentableId" value="Default" />
       <updated>1651258020708</updated>
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1651259912052</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651259912052</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
 </project>

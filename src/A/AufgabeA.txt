@@ -1,0 +1,18 @@
+1. Sei "Main.java" der Name unserer Java Klasse.
+Zuerst soll man die Datei "Main.java" kompilieren.
+Shellbefehl dafür lautet: "javac Main.java".
+Nun kan man das erstellte Java Program "Main" mithilfe des Befehls: "java Main" ausführen.
+
+2. Im Java eine Klasse ist eine Schablone für gleichartige Objekte,
+wovon die Attribute und Methoden der Objekt-Instanzen dieser Klasse bestimmt werden.
+Objekte in Java sind konktrete Instanze einer Klasse
+und sie werden durch die Aspekte Identität, Zustand und Verhalten charakterisiert.
+
+
+3. Um ein neues Objekt zu erstellen, verwendet man das Schlüsselwort "new".
+Sei zum Beispiel "Person" der Name unserer Klasse.
+Dann erstellt man ein Objekt "person" der Klasse "Person" folgendermaßen: Person person = new Person();
+
+4.
+    a) .isEmpty()
+    b) .ceil()

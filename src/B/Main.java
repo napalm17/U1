@@ -1,7 +1,8 @@
-package A;
+package B;
 
 class Main {
     public static void main(String args[]) {
+
         // The object "person" must have its class name "Person" in front of it.
         // The order in which the parameters of the class constructor "Person" are given in this instance
         // is wrong. The right order is the person's name, age and then height.
